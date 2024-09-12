@@ -18,14 +18,6 @@ This app allows users to play Tic Tac Toe either against a robot (with a challen
 - **State Management with GetX**: Leveraging GetX to manage game states effectively and efficiently.
 - **Winning Line Animation**: A canvas line is drawn across the winning combination when a player wins the game.
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/homepage.png" width="30%" alt="Home Page Screenshot" />
-  <img src="screenshots/play_with_friend.png" width="30%" alt="Play with Friend Screenshot" />
-  <img src="screenshots/play_with_robot.png" width="30%" alt="Play with Robot Screenshot" />
-</p>
-
 ## Watch the Full Tutorial
 
 Check out the step-by-step tutorial on my YouTube channel **HR Code Experts**:
